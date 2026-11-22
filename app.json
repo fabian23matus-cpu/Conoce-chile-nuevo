@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "CONOCE CHILE",
+    "slug": "conoce-chile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#08283F"
+    },
+    "android": {
+      "package": "cl.conocechile.app",
+      "versionCode": 1
+    },
+    "ios": {
+      "bundleIdentifier": "cl.conocechile.app"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "REEMPLAZAR_CON_PROJECT_ID_DE_EXPO"
+      }
+    }
+  }
+}
